@@ -7,4 +7,4 @@ description: A collection of videos and tutorials for Adobe Advertising Cloud.
 
 A collection of videos and tutorials for Adobe Advertising Cloud. Edit with revised description for video itself
 
->[!VIDEO](https://publish.tv.adobe.com/bucket/1/category/3826/)
+>[!VIDEO](https://video.tv.adobe.com/v/33491)
