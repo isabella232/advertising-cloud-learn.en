@@ -10,6 +10,7 @@ tutorials-url: https://helpx.adobe.com/advertising-cloud/tutorials.html
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/advertising-cloud-learn.en
 index: no
+type: Tutorial
 ---
 
 # Metadata for internal use
