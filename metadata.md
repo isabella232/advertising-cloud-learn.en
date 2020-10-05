@@ -8,8 +8,8 @@ getting-started-url: https://guided.adobe.com/#recommended/solutions/advertising
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/advertising-cloud/tutorials.html
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/advertising-cloud-learn.en
-index: no
+git-repo: https://github.com/AdobeDocs/advertising-cloud-learn.en
+index: yes
 type: Tutorial
 ---
 
