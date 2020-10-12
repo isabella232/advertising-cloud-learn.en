@@ -6,7 +6,7 @@ breadcrumb-url: /docs/advertising-cloud-learn/dsp/overview.html
 solution: Advertising Cloud
 ---
 
-# Adobe Advertising Cloud Tutorials {#dsp}
+# Adobe Advertising Cloud Tutorials {#tutorials}
 
 + [Overview](overview.md)
 + Analytics for Advertising Cloud {#analytics}
