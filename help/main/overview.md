@@ -2,7 +2,6 @@
 title: Advertising Cloud DSP Tutorials
 description: A collection of videos and tutorials for Adobe Advertising Cloud.
 feature: overview
-topics: 
 audience: all
 activity: use
 doc-type: overview
