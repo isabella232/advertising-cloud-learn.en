@@ -1,11 +1,10 @@
 ---
-title: Advertising Cloud DSP Tutorials
-description: A collection of videos and tutorials for Adobe Advertising Cloud.
+title: Reporting with Advertising Cloud Marketing Channels
+description: Learn how the Advertising Cloud view-through and click-through entry data works with Adobe Analytics Marketing Channels.
 ---
 
-# Reporting with Advertising Cloud Marketing Channels  (A4AdC)
+# Reporting with Advertising Cloud Marketing Channels (A4AdC)
 
-How the Advertising Cloud view-through and click-through entry data works with Adobe Analytics Marketing Channels 
-
+Learn how the Advertising Cloud view-through and click-through entry data works with Adobe Analytics Marketing Channels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)
