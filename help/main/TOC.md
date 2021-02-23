@@ -13,6 +13,7 @@ solution: Advertising Cloud
   + [Introduction to A4AdC](intro-a4adc.md)
   + [Create Advertising Cloud Site Entry Reports](analytics-site-entry-a4adc.md)
   + [Create Analytics Segments for Activation and Reporting](analytics-segments-a4adc.md)
+  + [Introduction to Workspace and Reporting](analytics-analysis-workspace-a4adc.md)
   + [Reporting with Advertising Cloud Marketing Channels](analytics-reporting-a4adc.md)
   + [Create Analytics Profiles for Ad Cloud Activation and Reporting](analytics-profiles-a4adc.md)
   + [Create a Pre-Launch Campaign Analysis with Adobe Analytics](analytics-pre-launch-a4adc.md)
