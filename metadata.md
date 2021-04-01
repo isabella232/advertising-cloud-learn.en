@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: advertising cloud
 solution-title: Advertising Cloud
 solution-hub-url: https://helpx.adobe.com/support/advertising-cloud.html
