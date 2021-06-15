@@ -1,5 +1,5 @@
 ---
-title: Advertising Cloud DSP Tutorials
+title: Advertising Cloud Tutorials
 description: A collection of videos and tutorials for Adobe Advertising Cloud.
 audience: all
 activity: use
