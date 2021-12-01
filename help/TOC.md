@@ -8,7 +8,7 @@ solution: Advertising Cloud
 # Adobe Advertising Cloud Tutorials {#tutorials}
 
 + [Overview](overview.md)
-+ DSP {#DSP}
++ DSP {#dsp}
   + [Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
