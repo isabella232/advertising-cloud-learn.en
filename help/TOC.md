@@ -9,8 +9,12 @@ solution: Advertising Cloud
 
 + [Overview](overview.md)
 + DSP {#dsp}
+  + [Introduction to Advertising Cloud DSP](/help/dsp/overview.md)
+  + [Campaign Home](/help/dsp/campaign-home.md)
   + [Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
+  + [How to Bulk Upload Third-Party Tags](/help/dsp/bulk-upload-third-party-ad-tags.md)
+  + [How to Use Bulk Edit Tools](/help/dsp/bulk-edit-placement-tools.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
 + Analytics for Advertising Cloud {#analytics}
   + [Introduction to A4AdC](/help/integrations/analytics/intro-a4adc.md)
