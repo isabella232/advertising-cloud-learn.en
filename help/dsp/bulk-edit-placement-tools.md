@@ -1,10 +1,10 @@
 ---
-title: How to Use Bulk Edit Tools for Advertising Cloud DSP
-description: Learn how to upload multiple third-party ad tags.
+title: How to Edit Placements Using Bulk Edit Tools for Advertising Cloud DSP
+description: Learn how to edit the settings for multiple placements at once.
 exl-id: 
 ---
-# How to Use Bulk Edit Tools for Advertising Cloud DSP
+# How to Edit Placements Using Bulk Edit Tools
 
 Learn how to edit the settings for multiple placements at once in Advertising Cloud DSP.
 
->[!VIDEO]()
+>[!VIDEO](https://video.tv.adobe.com/v/339205)
