@@ -10,12 +10,9 @@ solution: Advertising Cloud
 + [Overview](overview.md)
 + DSP {#dsp}
   + [Introduction to Advertising Cloud DSP](/help/dsp/overview.md)
-  + [Campaign Home](/help/dsp/campaign-home.md)
-  + [Create a Placement](/help/dsp/placement-create.md)
-  + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
+  + [Account Structure and User Interface](/help/dsp/ui.md)
   + [How to Bulk Upload Third-Party Tags](/help/dsp/bulk-upload-third-party-ad-tags.md)
   + [How to Use Bulk Edit Tools](/help/dsp/bulk-edit-placement-tools.md)
-  + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
 + Analytics for Advertising Cloud {#analytics}
   + [Introduction to A4AdC](/help/integrations/analytics/intro-a4adc.md)
   + [Create Advertising Cloud Site Entry Reports](/help/integrations/analytics/analytics-site-entry-a4adc.md)
@@ -26,3 +23,10 @@ solution: Advertising Cloud
   + [Create a Pre-Launch Campaign Analysis with Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
   + [Create Advertising Cloud Dashboards with Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
   + [Create Analytics Custom Metrics with Advertising Cloud Data](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+
+<!--
+  + [Account Structure and User Interface](/help/dsp/ui.md)
+  + [Create a Placement](/help/dsp/placement-create.md)
+  + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
+  + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
+-->
