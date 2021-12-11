@@ -9,7 +9,7 @@ solution: Advertising Cloud
 
 + [Overview](overview.md)
 + DSP {#dsp}
-  + [Introduction to Advertising Cloud DSP](/help/dsp/overview.md)
+  + [Introduction to Advertising Cloud DSP](/help/dsp/intro.md)
   + [Account Structure and User Interface](/help/dsp/ui.md)
   + [How to Bulk Upload Third-Party Ad Tags](/help/dsp/bulk-upload-third-party-ad-tags.md)
   + [How to Edit Placements Using Bulk Edit Tools](/help/dsp/bulk-edit-placement-tools.md)
