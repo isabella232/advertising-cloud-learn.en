@@ -1,7 +1,6 @@
 ---
 title: How to Edit Placements Using Bulk Edit Tools for Advertising Cloud DSP
 description: Learn how to edit the settings for multiple placements at once.
-exl-id: 
 ---
 # How to Edit Placements Using Bulk Edit Tools
 

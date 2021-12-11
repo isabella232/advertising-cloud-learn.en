@@ -1,7 +1,6 @@
 ---
 title: Advertising Cloud DSP Audience Libraries and Applying Behavioral Targeting
 description: Learn about reusable audience libraries for customizing behavioral targeting.
-exl-id: 
 ---
 # Audience Libraries and Applying Behavioral Targeting
 

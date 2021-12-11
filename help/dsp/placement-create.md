@@ -1,7 +1,6 @@
 ---
 title: How to Create a Placement for Advertising Cloud DSP
 description: Learn how to create a placement.
-exl-id: 
 ---
 # How to Create a Placement
 

@@ -1,7 +1,6 @@
 ---
 title: How to Create a Package for Advertising Cloud DSP
 description: Learn how to create a package.
-exl-id: 
 ---
 # How to Create a Package
 
