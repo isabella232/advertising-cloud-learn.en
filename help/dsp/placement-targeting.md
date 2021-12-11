@@ -7,4 +7,6 @@ exl-id:
 
 Learn about the different targeting options for your Advertising Cloud DSP placements.
 
+<!--
 >[!VIDEO]()
+-->

@@ -7,4 +7,6 @@ exl-id:
 
 Learn about reusable audience libraries for customizing behavioral targeting, how to create them, and how to apply them to your Advertising Cloud DSP placements.
 
+<!--
 >[!VIDEO]()
+-->
