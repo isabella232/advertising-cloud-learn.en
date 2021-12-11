@@ -6,4 +6,4 @@ description: Learn how to create a package.
 
 Learn how to create a package for an Advertising Cloud DSP campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/338971/)
+>[!VIDEO](https://video.tv.adobe.com/v/339203)
