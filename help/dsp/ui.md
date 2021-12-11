@@ -1,7 +1,6 @@
 ---
 title:  Advertising Cloud DSP Account Structure and User Interface
 description: Get to know the DSP account structure and user interface.
-exl-id: 
 ---
 # Account Structure and User Interface
 
