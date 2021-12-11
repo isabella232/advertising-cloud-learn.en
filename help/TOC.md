@@ -11,6 +11,7 @@ solution: Advertising Cloud
 + DSP {#dsp}
   + [Introduction to Advertising Cloud DSP](/help/dsp/intro.md)
   + [Account Structure and User Interface](/help/dsp/ui.md)
+  + [How to Create a Package](/help/dsp/package-create.md)
   + [How to Bulk Upload Third-Party Ad Tags](/help/dsp/bulk-upload-third-party-ad-tags.md)
   + [How to Edit Placements Using Bulk Edit Tools](/help/dsp/bulk-edit-placement-tools.md)
 + Analytics for Advertising Cloud {#analytics}
@@ -25,7 +26,7 @@ solution: Advertising Cloud
   + [Create Analytics Custom Metrics with Advertising Cloud Data](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Will add to DSP chapter once the videos are complete:
-  + [Create a Placement](/help/dsp/placement-create.md)
+  + [How to Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
 -->
