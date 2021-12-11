@@ -11,8 +11,8 @@ solution: Advertising Cloud
 + DSP {#dsp}
   + [Introduction to Advertising Cloud DSP](/help/dsp/overview.md)
   + [Account Structure and User Interface](/help/dsp/ui.md)
-  + [How to Bulk Upload Third-Party Tags](/help/dsp/bulk-upload-third-party-ad-tags.md)
-  + [How to Use Bulk Edit Tools](/help/dsp/bulk-edit-placement-tools.md)
+  + [How to Bulk Upload Third-Party Ad Tags](/help/dsp/bulk-upload-third-party-ad-tags.md)
+  + [How to Edit Placements Using Bulk Edit Tools](/help/dsp/bulk-edit-placement-tools.md)
 + Analytics for Advertising Cloud {#analytics}
   + [Introduction to A4AdC](/help/integrations/analytics/intro-a4adc.md)
   + [Create Advertising Cloud Site Entry Reports](/help/integrations/analytics/analytics-site-entry-a4adc.md)
