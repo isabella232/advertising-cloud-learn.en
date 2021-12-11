@@ -8,4 +8,3 @@ exl-id:
 Learn how your Advertising Cloud DSP ad accounts are structured, how to use the campaign management views, and descriptions of the audience management, inventory, reporting, settings, and resource features.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339206)
-
