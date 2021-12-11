@@ -1,8 +1,8 @@
 ---
-title: Overview of Advertising Cloud DSP
+title: Introduction to Advertising Cloud DSP
 description: Learn about Advertising Cloud DSP and how it can benefit your media campaigns.
 ---
-# Overview of Advertising Cloud DSP
+# Introduction to Advertising Cloud DSP
 
 Learn about Advertising Cloud DSP, including how it fits into Adobe Experience Cloud, what it can do for advertisers, and how an integration with Adobe Analytics and additional services can benefit your media campaigns.
 
