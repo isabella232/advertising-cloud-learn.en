@@ -9,7 +9,7 @@ exl-id: aa9d9ff5-115f-44c6-b23d-3fc034904697
 ---
 # Advertising Cloud Tutorials
 
-Welcome to the [!DNL Advertising Cloud] Tutorials Site. Using these tutorials along with the [documentation](https://experienceleague.adobe.com/docs/advertising-cloud.html) will give you a better understanding of how to use Adobe Advertising Cloud to gain customer insights faster than ever.
+Welcome to the [!DNL Advertising Cloud] Tutorials site. Using these tutorials along with the [documentation](https://experienceleague.adobe.com/docs/advertising-cloud.html) will give you a better understanding of how to use Adobe Advertising Cloud to gain customer insights faster than ever.
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
