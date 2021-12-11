@@ -1,6 +1,7 @@
 ---
 title: Introduction to Advertising Cloud DSP
 description: Learn about Advertising Cloud DSP and how it can benefit your media campaigns.
+exl-id: 6aa44b8e-da4d-4141-b7b5-989046586315
 ---
 # Introduction to Advertising Cloud DSP
 
