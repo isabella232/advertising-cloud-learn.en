@@ -25,7 +25,6 @@ solution: Advertising Cloud
   + [Create Analytics Custom Metrics with Advertising Cloud Data](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!--
-  + [Account Structure and User Interface](/help/dsp/ui.md)
   + [Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
