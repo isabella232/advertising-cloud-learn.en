@@ -7,4 +7,4 @@ exl-id: 4d4a6c11-6422-4a81-8755-703e98ac6faf
 
 Learn how to create a package for an Advertising Cloud DSP campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/339203)
+>[!VIDEO](https://video.tv.adobe.com/v/339257)
