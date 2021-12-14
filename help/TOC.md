@@ -25,7 +25,7 @@ solution: Advertising Cloud
   + [Create Advertising Cloud Dashboards with Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
   + [Create Analytics Custom Metrics with Advertising Cloud Data](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
-<!-- Will add to DSP chapter once the videos are complete:
+<!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
