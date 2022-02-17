@@ -12,6 +12,7 @@ solution: Advertising Cloud
   + [Introduction to Advertising Cloud DSP](/help/dsp/intro.md)
   + [Account Structure and User Interface](/help/dsp/ui.md)
   + [How to Create a Package](/help/dsp/package-create.md)
+  + [How to Create a Standard Display Placement](/help/dsp/placement-create.md)
   + [How to Edit Placements Using Bulk Edit Tools](/help/dsp/bulk-edit-placement-tools.md)
   + [How to Bulk Upload Third-Party Ad Tags](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Advertising Cloud] {#analytics}
